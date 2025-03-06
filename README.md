@@ -91,8 +91,7 @@ Here’s what I use to turn coffee into code:
 If you’re as passionate about blockchain, coding, or football as I am, let’s chat! I’m always down to collaborate on cool projects or debate Messi vs. Ronaldo.  
 
 📫 **How to reach me**:  
-- [Twitter](#)  
-- [LinkedIn](#)  
-- [Email](#)  
+- [Twitter](https://x.com/soljesty)  
+- [Telegram](https://t.me/soljesty)  
 
 Let’s build the future together! 🚀  
