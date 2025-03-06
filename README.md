@@ -1,51 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .emoji {
-            font-size: 1.2em;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .section h2 {
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 5px;
-        }
-        .tech-stack, .projects {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .tech-stack div, .projects div {
-            background-color: #ecf0f1;
-            padding: 10px;
-            border-radius: 5px;
-            flex: 1 1 calc(33% - 20px);
-            box-sizing: border-box;
-        }
-    </style>
-</head>
-<body>
+
 
     <h1>Hi there 👋 Welcome to my profile!</h1>
 
@@ -105,5 +58,3 @@
         <p><em>P.S. If you made it this far, you’re awesome. Here’s a virtual high-five! ✋</em></p>
     </div>
 
-</body>
-</html>
