@@ -56,38 +56,6 @@ Here are some of the projects I’ve poured my heart, soul, and way too much cof
 - **WebSocket Implementation using Geyser**  
   Real-time data? Yes, please! 🌊  
 
----
-
-## 🛠️ My Tech Stack
-
-Here’s what I use to turn coffee into code:  
-
-### Languages
-- 🦀 Rust / Anchor  
-- 🐍 Python (Django, FastAPI, Flask)  
-- 🟨 JavaScript / TypeScript (Node.js, Nest.js, Express)  
-- 🐹 GoLang  
-- 📦 MoveLang  
-
-### Frontend
-- ⚛️ React / Next.js  
-- 🎨 Tailwind CSS / Styled Components  
-- 🛠️ Svelte  
-
-### Databases
-- 🍃 MongoDB  
-- 🐘 PostgreSQL  
-- 🐬 MySQL  
-- 🗄️ SQLite  
-- 🔥 Supabase / Firebase  
-
-### Cloud & DevOps
-- ☁️ AWS (S3, EC2, DynamoDB, RDS, Route53)  
-
----
-
-## 🌟 Let’s Connect!  
-
 If you’re as passionate about blockchain, coding, or football as I am, let’s chat! I’m always down to collaborate on cool projects or debate Messi vs. Ronaldo.  
 
 📫 **How to reach me**:  
