@@ -17,46 +17,7 @@
 - 🤓 **Tech Junkie**  
   I’m always excited to learn new technologies and frameworks. If it’s shiny and new, I’m already Googling it.  
 
----
-
-## 🚀 My Favorite Projects
-
-Here are some of the projects I’ve poured my heart, soul, and way too much coffee into:  
-
-- **Pump.fun Forking Bonding Curve Smart Contract**  
-  (Raydium CPI + Meteora CPI) – Because who doesn’t love a good bonding curve? 📈  
-
-- **Token / NFT Presale Smart Contract**  
-  Making presales smoother than butter on toast. 🧈  
-
-- **Raydium Sniper Bot**  
-  Sniping tokens like a pro. �  
-
-- **Pump.fun Sniper Bot**  
-  Because timing is everything. ⏱️  
-
-- **Solana Telegram Trading Bot**  
-  Trading on the go, one Telegram message at a time. 📲  
-
-- **Token Launchers with Jito Bundler**  
-  (Pump.fun, Raydium, Meteora) – Launching tokens faster than you can say “bull run.” 🚀  
-
-- **Volume Bots**  
-  (Raydium, Pump.fun, Meteora) – Because volume is king. 👑  
-
-- **Market Maker Bots**  
-  (Raydium, Pump.fun) – Keeping markets liquid and lively. 💧  
-
-- **Copy Trading Bot**  
-  Copy the best, forget the rest. 🐒  
-
-- **Swap Parsers**  
-  (Raydium, Jupiter) – Parsing swaps like a boss. 🤖  
-
-- **WebSocket Implementation using Geyser**  
-  Real-time data? Yes, please! 🌊  
-
-If you’re as passionate about blockchain, coding, or football as I am, let’s chat! I’m always down to collaborate on cool projects or debate Messi vs. Ronaldo.  
+## Recently Read Articles
 
 📫 **How to reach me**:  
 - [Twitter](https://x.com/soljesty)  
