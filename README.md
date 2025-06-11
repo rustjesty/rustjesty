@@ -20,7 +20,7 @@
 ## Recently Read Articles
 
 📫 **How to reach me**:  
-- [Twitter](https://x.com/soljesty)  
+- [Twitter](https://x.com/intent/follow?screen_name=soljesty)  
 - [Telegram](https://t.me/soljesty)  
 
 Let’s build the future together! 🚀  
