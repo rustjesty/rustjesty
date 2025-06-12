@@ -18,7 +18,7 @@
   I’m always excited to learn new technologies and frameworks. If it’s shiny and new, I’m already Googling it. 
 
 ## Portfolio
-https://mrustsol.com
+Check my previous projects what I built: https://mrustsol.com
 
 ## Recently Read Articles
 
