@@ -15,7 +15,10 @@
   When I’m not coding, you’ll find me playing or watching football. Messi or Ronaldo? Let’s debate!  
 
 - 🤓 **Tech Junkie**  
-  I’m always excited to learn new technologies and frameworks. If it’s shiny and new, I’m already Googling it.  
+  I’m always excited to learn new technologies and frameworks. If it’s shiny and new, I’m already Googling it. 
+
+## Portfolio
+https://mrustsol.com
 
 ## Recently Read Articles
 
