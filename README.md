@@ -25,5 +25,6 @@ Check my previous projects what I built: https://mrustsol.com
 📫 **How to reach me**:  
 - [Twitter](https://x.com/intent/follow?screen_name=soljesty)  
 - [Telegram](https://t.me/soljesty)  
+- [Instagram](https://www.instagram.com/soljesty)
 
 Let’s build the future together! 🚀  
