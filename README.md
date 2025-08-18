@@ -20,6 +20,16 @@
 ## Portfolio
 Check my previous projects what I built: https://mrustsol.com
 
+## Recently developed
+Various Trading bots like
+- Sniper
+- Bundler
+- Copy Trading Bot
+- Arbitrage bot
+- Wallet Tracking bot
+- Volume Bot
+- Telegram Trading Bot
+
 ## Recently Read Articles
 
 📫 **How to reach me**:  
