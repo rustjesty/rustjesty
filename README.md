@@ -33,7 +33,7 @@ Various Trading bots like
 ## Recently Read Articles
 
 📫 **How to reach me**:  
-- [Twitter](https://x.com/intent/follow?screen_name=soljesty)  
+- [Twitter](https://x.com/intent/follow?screen_name=sol_majesty)  
 - [Telegram](https://t.me/soljesty)  
 - [Instagram](https://www.instagram.com/soljesty)
 
