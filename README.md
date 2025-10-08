@@ -21,7 +21,8 @@
 Check my previous projects what I built: https://mrustsol.com
 
 ## Recently developed
-BNB Bundler, Sniper, Volume bot in pancake swap and four.meme
+BNB Bundler, Sniper, Volume bot in pancake swap and four.meme.
+<br>
 Also, Various Trading bots like
 - Sniper
 - Bundler
