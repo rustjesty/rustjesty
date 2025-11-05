@@ -29,11 +29,5 @@ Also, Various Trading bots like
 - Volume Bot
 - Telegram Trading Bot
 
-## Recently Read Articles
-
-📫 **How to reach me**:  
-- [Twitter](https://x.com/intent/follow?screen_name=soljestydev)  
-- [Telegram](https://t.me/soljesty)  
-- [Instagram](https://www.instagram.com/soljesty)
 
 Let’s build the future together! 🚀  
