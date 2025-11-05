@@ -17,9 +17,6 @@
 - 🤓 **Tech Junkie**  
   I’m always excited to learn new technologies and frameworks. If it’s shiny and new, I’m already Googling it. 
 
-## Portfolio
-Check my previous projects what I built: https://mrustsol.com
-
 ## Recently developed
 BNB Bundler, Sniper, Volume bot in pancake swap and four.meme.
 <br>
