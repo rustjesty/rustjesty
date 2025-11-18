@@ -1,7 +1,6 @@
 # Hi there 👋 Welcome to my profile!
 
-## A Few Things About Me - Felix
-
+## A Few Things About Me
 - 💻 **Self-taught Software Engineer** 📍  
   I’m passionate about building things that live on the internet, and I’ve learned everything I know through curiosity, coffee, and countless hours of debugging.  
 
