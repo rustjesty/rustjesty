@@ -1,87 +1,50 @@
 <div align="center">
 
-# 🚀 Building at the Intersection of AI & Blockchain
+# 🚀 AI Agent Architect × Web3 Developer
 
-### Self-Taught Engineer | AI Agent Architect | Web3 Developer
+*Building autonomous agents that make money in crypto markets*
 
-*Turning autonomous agents into revenue-generating machines*
+[![Blockchain](https://img.shields.io/badge/Blockchain-Expert-blue?style=for-the-badge)](https://github.com/rustjesty)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-Builder-green?style=for-the-badge)](https://github.com/rustjesty)
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Build
 
-I specialize in building **autonomous AI agents** that operate in crypto markets, DeFi protocols, and Web3 ecosystems. My work combines deep blockchain expertise with cutting-edge AI to create intelligent systems that execute, trade, and optimize without human intervention.
-
-### 🤖 AI Agent Expertise
-- **Trading Agents** - Polymarket, Stock Market, Crypto/DeFi automation
-- **Social Media Agents** - Automated content creation and engagement
-- **Blockchain Sentry AI** - Real-time on-chain monitoring and alerts
-- **Revenue-Generating Agents** - Gig economy, arbitrage, and market-making bots
-
-### ⛓️ Blockchain Arsenal
-**Chains:** Solana | Ethereum | Bitcoin | Sui | Cardano | BNB Chain  
-**Focus:** DeFi protocols, Token mechanics, MEV strategies, On-chain analytics
+**AI Agents:** Trading (Polymarket, Stocks, Crypto) • Social Media • Blockchain Monitoring • Revenue Generation  
+**Blockchains:** Solana | Ethereum | Bitcoin | Sui | Cardano | BNB  
+**Focus:** DeFi protocols • MEV strategies • On-chain analytics • Autonomous systems
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Featured Work
 
-### 🧠 AI-Powered Systems
-```
-🔹 Blockchain Sentry AI Agent (OpenClaw)
-   └─ Autonomous on-chain monitoring and execution
-   
-🔹 AI Trading Agent Infrastructure
-   └─ Multi-market autonomous trading systems
-```
+### 🤖 AI-Powered
+- **Blockchain Sentry AI** (OpenClaw) - Autonomous on-chain monitoring
+- **Multi-Market Trading Agents** - Automated execution across platforms
 
-### 💎 Blockchain Infrastructure
-```
-🔹 Full-Stack Trading Platform (Solana + EVM)
-   └─ Token Launch | Bundling | Sniping | Volume Bot
-   
-🔹 Bubblemaps Bypass Engine
-   └─ Advanced wallet analysis across chains
-   
-🔹 Professional Trading Bot Suite
-   ├─ Sniper Bot
-   ├─ Bundler
-   ├─ Copy Trading Bot
-   ├─ Arbitrage Engine
-   ├─ Wallet Tracker
-   ├─ Volume Bot
-   └─ Telegram Trading Interface
-```
+### ⛓️ Blockchain
+- **Full-Stack Trading Platform** (Solana + EVM) - Launch, Bundle, Snipe, Volume
+- **Bubblemaps Bypass Engine** - Advanced wallet analysis
+- **Trading Bot Suite** - Sniper, Bundler, Copy Trading, Arbitrage, Volume, Telegram Interface
 
 ---
 
-## 💡 Current Focus
+## 💡 Current Mission
 
 ```typescript
-const currentMission = {
-  primary: "Building monetizable AI agents for real-world applications",
-  exploring: ["Agent frameworks", "LLM fine-tuning", "Multi-agent systems"],
-  combining: ["Blockchain infrastructure", "AI decision-making", "Autonomous execution"],
-  goal: "Making AI agents that actually make money 💰"
-};
+Building monetizable AI agents that combine blockchain 
+infrastructure with autonomous decision-making
 ```
-
----
-
-## 🌟 Beyond Code
-
-- ⚽ **Football Enthusiast** - Player & Fan (Messi > Ronaldo, fight me)
-- 🤝 **Community Builder** - Always down to collaborate on ambitious projects
-- 🧪 **Perpetual Learner** - If it's bleeding-edge tech, I'm already experimenting with it
 
 ---
 
 <div align="center">
 
-### 🔗 Let's Build Something Revolutionary
+⚽ Football Fan • 🤝 Open to Collaboration • 🧪 Always Learning
 
-⭐ **Star my repos if you find them useful!**
+### Let's Build Something Revolutionary 🚀
 
 </div>
