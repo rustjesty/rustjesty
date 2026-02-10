@@ -1,32 +1,98 @@
-# Hi there 👋 Welcome to my profile!
+<div align="center">
 
-## A Few Things About Me
-- 💻 **Self-taught Software Engineer** 📍  
-  I’m passionate about building things that live on the internet, and I’ve learned everything I know through curiosity, coffee, and countless hours of debugging.  
+# 🚀 Building at the Intersection of AI & Blockchain
 
-- 🕸️ **Blockchain Enthusiast**  
-  I’m obsessed with Solana, Ethereum, Bitcoin, Sui, and Cardano. If it’s decentralized, I’m probably geeking out over it.  
+### Self-Taught Engineer | AI Agent Architect | Web3 Developer
 
-- 🤝 **Community Lover**  
-  I thrive on meeting like-minded people who share my passion for tech, blockchain, and memes. Let’s build something awesome together!  
+*Turning autonomous agents into revenue-generating machines*
 
-- ⚽ **Football Fanatic**  
-  When I’m not coding, you’ll find me playing or watching football. Messi or Ronaldo? Let’s debate!  
+[![Blockchain](https://img.shields.io/badge/Blockchain-Expert-blue?style=for-the-badge)](https://github.com/rustjesty)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-Builder-green?style=for-the-badge)](https://github.com/rustjesty)
+[![Solana](https://img.shields.io/badge/Solana-Specialist-purple?style=for-the-badge)](https://github.com/rustjesty)
 
-- 🤓 **Tech Junkie**  
-  I’m always excited to learn new technologies and frameworks. If it’s shiny and new, I’m already Googling it. 
+</div>
 
-## Recently developed
-BNB Bundler, Sniper, Volume bot in pancake swap and four.meme.
-<br>
-Also, Various Trading bots like
-- Sniper
-- Bundler
-- Copy Trading Bot
-- Arbitrage bot
-- Wallet Tracking bot
-- Volume Bot
-- Telegram Trading Bot
+---
 
+## 🎯 What I Do
 
-Let’s build the future together! 🚀  
+I specialize in building **autonomous AI agents** that operate in crypto markets, DeFi protocols, and Web3 ecosystems. My work combines deep blockchain expertise with cutting-edge AI to create intelligent systems that execute, trade, and optimize without human intervention.
+
+### 🤖 AI Agent Expertise
+- **Trading Agents** - Polymarket, Stock Market, Crypto/DeFi automation
+- **Social Media Agents** - Automated content creation and engagement
+- **Blockchain Sentry AI** - Real-time on-chain monitoring and alerts
+- **Revenue-Generating Agents** - Gig economy, arbitrage, and market-making bots
+
+### ⛓️ Blockchain Arsenal
+**Chains:** Solana | Ethereum | Bitcoin | Sui | Cardano | BNB Chain  
+**Focus:** DeFi protocols, Token mechanics, MEV strategies, On-chain analytics
+
+---
+
+## 🛠️ Featured Projects
+
+### 🧠 AI-Powered Systems
+```
+🔹 Blockchain Sentry AI Agent (OpenClaw)
+   └─ Autonomous on-chain monitoring and execution
+   
+🔹 AI Trading Agent Infrastructure
+   └─ Multi-market autonomous trading systems
+```
+
+### 💎 Blockchain Infrastructure
+```
+🔹 Full-Stack Trading Platform (Solana + EVM)
+   └─ Token Launch | Bundling | Sniping | Volume Bot
+   
+🔹 Bubblemaps Bypass Engine
+   └─ Advanced wallet analysis across chains
+   
+🔹 Professional Trading Bot Suite
+   ├─ Sniper Bot
+   ├─ Bundler
+   ├─ Copy Trading Bot
+   ├─ Arbitrage Engine
+   ├─ Wallet Tracker
+   ├─ Volume Bot
+   └─ Telegram Trading Interface
+```
+
+---
+
+## 💡 Current Focus
+
+```typescript
+const currentMission = {
+  primary: "Building monetizable AI agents for real-world applications",
+  exploring: ["Agent frameworks", "LLM fine-tuning", "Multi-agent systems"],
+  combining: ["Blockchain infrastructure", "AI decision-making", "Autonomous execution"],
+  goal: "Making AI agents that actually make money 💰"
+};
+```
+
+---
+
+## 🌟 Beyond Code
+
+- ⚽ **Football Enthusiast** - Player & Fan (Messi > Ronaldo, fight me)
+- 🤝 **Community Builder** - Always down to collaborate on ambitious projects
+- 🧪 **Perpetual Learner** - If it's bleeding-edge tech, I'm already experimenting with it
+
+---
+
+<div align="center">
+
+### 🔗 Let's Build Something Revolutionary
+
+*Interested in AI agents, blockchain development, or just want to talk tech?*  
+**Let's connect and create the future together.**
+
+⭐ **Star my repos if you find them useful!**
+
+---
+
+*"The best way to predict the future is to build it"* 🚀
+
+</div>
