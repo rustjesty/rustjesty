@@ -6,10 +6,6 @@
 
 *Turning autonomous agents into revenue-generating machines*
 
-[![Blockchain](https://img.shields.io/badge/Blockchain-Expert-blue?style=for-the-badge)](https://github.com/rustjesty)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-Builder-green?style=for-the-badge)](https://github.com/rustjesty)
-[![Solana](https://img.shields.io/badge/Solana-Specialist-purple?style=for-the-badge)](https://github.com/rustjesty)
-
 </div>
 
 ---
@@ -86,13 +82,6 @@ const currentMission = {
 
 ### 🔗 Let's Build Something Revolutionary
 
-*Interested in AI agents, blockchain development, or just want to talk tech?*  
-**Let's connect and create the future together.**
-
 ⭐ **Star my repos if you find them useful!**
-
----
-
-*"The best way to predict the future is to build it"* 🚀
 
 </div>
