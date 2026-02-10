@@ -3,10 +3,6 @@
 # 🚀 AI Agent Architect × Web3 Developer
 
 *Building autonomous agents that make money in crypto markets*
-
-[![Blockchain](https://img.shields.io/badge/Blockchain-Expert-blue?style=for-the-badge)](https://github.com/rustjesty)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-Builder-green?style=for-the-badge)](https://github.com/rustjesty)
-
 </div>
 
 ---
@@ -32,7 +28,7 @@
 
 ---
 
-## 💡 Current Mission
+## 💡 Current Focus
 
 ```typescript
 Building monetizable AI agents that combine blockchain 
